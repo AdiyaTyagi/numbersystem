@@ -4,7 +4,7 @@ Includes code for different number system functinalities:
 - Find Even and Odd
   - For a given array, it print Even for all Even numbers and Odd for all Odd numbers.
 - Find prime
- - for a given array, if collects all prime numbers in a array and performs operation on it like
+  - for a given array, if collects all prime numbers in a array and performs operation on it like
     - Find Minimum
     - Find Maximum
     - Find sum of all elements
